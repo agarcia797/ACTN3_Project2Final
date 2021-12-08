@@ -8,7 +8,7 @@ You will need a few files in order to adequately run the code:
 
 1) The jupyter notebook
 2) The datasets for ACTN3 and ACTN2 (both uploaded here) 
-3) Three csv files created from data in “ACTN3 Genotype Is Associated with Human Elite Athletic Performance” by Nan Yang (https://doi.org/10.1086/377590) for bioinformatics statistical analysis ('ACTN3table.csv') and plot visualization ('ACTN3plot.csv'), ('ACTN3plotx.csv'). 
+3) Three csv files created from data in “ACTN3 Genotype Is Associated with Human Elite Athletic Performance” by Nan Yang (https://doi.org/10.1086/377590) for bioinformatics statistical analysis ('ACTN3table.csv') and plot visualization ('ACTN3plot.csv') & ('ACTN3plotx.csv'). 
 
 Information on where FASTA files were found: 
 
